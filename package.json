@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "Fairy993",
   "license": "MIT",
   "devDependencies": {
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@mistjs/eslint-config-vue-jsx": "^0.1.1",
     "@types/node": "^22.2.0",
     "eslint": "^9.8.0",
+    "husky": "^9.1.4",
     "typescript": "^5.5.4",
     "vite": "^5.4.0",
     "vitest": "^2.0.5"
