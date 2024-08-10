@@ -1,0 +1,7 @@
+{
+    "extends": "@mistjs/tsconfig-vue",
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+    }
+}

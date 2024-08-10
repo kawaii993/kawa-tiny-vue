@@ -4,14 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Fairy993",
+  "license": "MIT",
   "devDependencies": {
     "@mistjs/eslint-config-vue-jsx": "^0.1.1",
+    "@types/node": "^22.2.0",
     "eslint": "^9.8.0",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "vite": "^5.4.0",
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "@mistjs/tsconfig-vue": "^1.1.2"
   }
 }
