@@ -1,3 +1,11 @@
+---
+search: false
+prev:
+  text: '组件列表'
+  link: '../index'
+
+---
+
 <!-- import {
     containerPreview,
     componentPreview,

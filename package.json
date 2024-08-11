@@ -18,6 +18,7 @@
     "@commitlint/cli": "^19.4.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@mistjs/eslint-config-vue-jsx": "^0.1.1",
+    "@mistjs/tsconfig-vue": "^1.1.2",
     "@types/node": "^22.2.0",
     "@vitejs/plugin-legacy": "^5.4.1",
     "@vitejs/plugin-vue": "^5.1.2",
@@ -45,7 +46,6 @@
     ]
   },
   "dependencies": {
-    "@mistjs/tsconfig-vue": "^1.1.2",
     "@vitepress-demo-preview/component": "^2.3.2",
     "@vitepress-demo-preview/plugin": "^1.2.3",
     "vue": "^3.4.0"

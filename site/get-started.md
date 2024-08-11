@@ -1,8 +1,8 @@
 ---
 search: false
 next:
-  link: /components/button
-  text: Button 按钮
+  link: /components/index
+  text: 基础组件
 ---
 
 # 最新 Vue3 + TS 打造自己的组件库
